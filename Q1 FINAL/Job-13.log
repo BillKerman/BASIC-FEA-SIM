@@ -1,0 +1,24 @@
+Analysis initiated from SIMULIA established products
+Abaqus JOB Job-13
+Abaqus 3DEXPERIENCE R2018x
+Successfully checked out QSD/50 from DSLS server 172.26.96.200
+Successfully checked out QXT/50 from DSLS server 172.26.96.200
+Abaqus License Manager checked out the following licenses:
+Abaqus/Standard checked out 50 tokens from DSLS server 172.26.96.200.
+<832 out of 1000 licenses remain available>.
+Begin Analysis Input File Processor
+3/8/2024 10:41:05 PM
+Run pre.exe
+3/8/2024 10:41:12 PM
+End Analysis Input File Processor
+Begin Abaqus/Standard Analysis
+3/8/2024 10:41:12 PM
+Run standard.exe
+3/8/2024 10:43:39 PM
+End Abaqus/Standard Analysis
+Begin Convert MFS to SFS
+3/8/2024 10:43:41 PM
+Run SMASimUtility.exe
+3/8/2024 10:43:41 PM
+End Convert MFS to SFS
+Abaqus JOB Job-13 COMPLETED
